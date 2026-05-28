@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mohammed Ismail
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Open+Source+Contributor;GSSoC+2026+Contributor;Campus+Mantri+at+GeeksforGeeks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;GSSoC+2026+Contributor;Campus+Mantri+at+GeeksforGeeks)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 - 🎓 CSE Student at St. Joseph’s Institute of Technology
@@ -8,7 +8,7 @@
 - 💻 Full Stack Developer
 - 🤖 Building HRMS & AI-based Projects
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -40,7 +40,7 @@
 - Languages: JavaScript, TypeScript, Python, Java
 - Tools: Git, GitHub, Docker
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight)
 
