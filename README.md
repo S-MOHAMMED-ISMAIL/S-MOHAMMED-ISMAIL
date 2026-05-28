@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Mohammed Ismail
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;GSSoC+2026+Contributor;Campus+Mantri+at+GeeksforGeeks)](https://git.io/typing-svg)
 
+Passionate Full Stack Developer focused on Open Source, AI-powered applications, and scalable backend systems.
+
 ## 🚀 About Me
 - 🎓 CSE Student at St. Joseph’s Institute of Technology
 - 🌱 Open Source Contributor | GSSoC 2026
@@ -34,25 +36,29 @@
 
 ## 💻 Tech Stack
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight" />
+</p>
 
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: FastAPI, Node.js
 - Database: PostgreSQL
 - Languages: JavaScript, TypeScript, Python, Java
 - Tools: Git, GitHub, Docker
-  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight" />
+
+  <img src="https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 - 🔹 [HRMS Backend](https://github.com/S-MOHAMMED-ISMAIL/hrms-backend)
-- 🔹 GitHub Dev Card Generator
-- 🔹 AI-based Applications
-- 🔹 DevTrack Contributions
+- 🔹 [GitHub Dev Card Generator](https://github.com/S-MOHAMMED-ISMAIL/github-dev-card-generator)
+- 🔹 [AI-based Applications](https://github.com/S-MOHAMMED-ISMAIL/raise-route-ai)
+- 🔹 [DevTrack Contributions](https://github.com/Priyanshu-byte-coder/devtrack)
 
 ---
 
