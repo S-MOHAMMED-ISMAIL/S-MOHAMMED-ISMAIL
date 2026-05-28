@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mohammed Ismail
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;GSSoC+2026+Contributor;Campus+Mantri+at+GeeksforGeeks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;GSSoC+2026+Contributor;Campus+Mantri+at+GeeksforGeeks)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 - 🎓 CSE Student at St. Joseph’s Institute of Technology
