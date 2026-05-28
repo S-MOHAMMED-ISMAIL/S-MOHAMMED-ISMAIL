@@ -7,8 +7,7 @@
 - 👨‍💻 Campus Mantri at GeeksforGeeks
 - 💻 Full Stack Developer
 - 🤖 Building HRMS & AI-based Projects
-  
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight)
+
 
 ---
 
@@ -34,6 +33,9 @@
 ---
 
 ## 💻 Tech Stack
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight)
+
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: FastAPI, Node.js
 - Database: PostgreSQL
