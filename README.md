@@ -9,6 +9,7 @@
 - 🤖 Building HRMS & AI-based Projects
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 🏆 GSSoC 2026 Achievements
