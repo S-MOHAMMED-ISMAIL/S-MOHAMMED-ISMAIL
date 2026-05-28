@@ -10,7 +10,6 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 - 💻 Full Stack Developer
 - 🤖 Building HRMS & AI-based Projects
 
-
 ---
 
 ## 🏆 GSSoC 2026 Achievements
@@ -47,9 +46,9 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 - Tools: Git, GitHub, Docker
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight" />
 
-  <img src="https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight" />
 </p>
 
 ---
