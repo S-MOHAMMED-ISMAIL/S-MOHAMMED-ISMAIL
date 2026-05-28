@@ -8,7 +8,7 @@
 - 💻 Full Stack Developer
 - 🤖 Building HRMS & AI-based Projects
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -40,14 +40,14 @@
 - Languages: JavaScript, TypeScript, Python, Java
 - Tools: Git, GitHub, Docker
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight)
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 [HRMS Backend] (https://github.com/S-MOHAMMED-ISMAIL/hrms-backend)
+- 🔹 [HRMS Backend](https://github.com/S-MOHAMMED-ISMAIL/hrms-backend)
 - 🔹 GitHub Dev Card Generator
 - 🔹 AI-based Applications
 - 🔹 DevTrack Contributions
