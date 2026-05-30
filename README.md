@@ -24,8 +24,7 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 <img src="https://github.com/user-attachments/assets/79396ddb-c8e5-452a-8e52-b52919a6c821" width="120" />
 <img src="https://github.com/user-attachments/assets/69d40a50-7258-4730-abb2-9a673ea89f8e" width="120" />
 <img src="https://github.com/user-attachments/assets/ff3aae63-2777-4402-80d7-319cfcd51984" width="120" />
-<img width="1080" height="1080" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/59ac3609-103e-4cc2-9929-40d6fdeaa567" />
-
+<img src="https://github.com/user-attachments/assets/59ac3609-103e-4cc2-9929-40d6fdeaa567" width="120" />
 </p>
 
 - ✅ 5+ Merged Pull Requests
