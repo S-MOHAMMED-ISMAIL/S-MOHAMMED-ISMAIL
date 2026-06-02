@@ -13,6 +13,7 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 ---
 
 ## 🏆 GSSoC 2026 Achievements
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/dcf5bee1-aa72-4101-adf0-021c60fc2518" width="120" />
 <img src="https://github.com/user-attachments/assets/5919ca0e-c747-4122-bc1d-fc19c6e79b8f" width="120" />
@@ -36,8 +37,10 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 
 ## 💻 Tech Stack
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=S-MOHAMMED-ISMAIL&theme=tokyonight)]
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight" />
 </p>
 
 - Frontend: React, Next.js, Tailwind CSS
@@ -47,7 +50,7 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 - Tools: Git, GitHub, Docker
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight" />
 
   <img width="48%" src="https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight" />
 </p>
