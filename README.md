@@ -67,7 +67,7 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
