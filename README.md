@@ -24,11 +24,17 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 # 🏆 GSSoC 2026 Achievements
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dcf5bee1-aa72-4101-adf0-021c60fc2518" width="120" />
-  <img src="https://github.com/user-attachments/assets/5919ca0e-c747-4122-bc1d-fc19c6e79b8f" width="120" />
-  <img src="https://github.com/user-attachments/assets/88c7bdd8-7707-4f68-b680-3ce98cc6ff6e" width="120" />
-  <img src="https://github.com/user-attachments/assets/9149a9a8-f57a-4b96-949e-9f6c70561fa1" width="120" />
-  <img src="https://github.com/user-attachments/assets/12178792-a213-4f21-886c-9c6cc7889072" width="120" />
+<img src="https://github.com/user-attachments/assets/dcf5bee1-aa72-4101-adf0-021c60fc2518" width="120" />
+<img src="https://github.com/user-attachments/assets/5919ca0e-c747-4122-bc1d-fc19c6e79b8f" width="120" />
+<img src="https://github.com/user-attachments/assets/88c7bdd8-7707-4f68-b680-3ce98cc6ff6e" width="120" />
+<img src="https://github.com/user-attachments/assets/9149a9a8-f57a-4b96-949e-9f6c70561fa1" width="120" />
+<img src="https://github.com/user-attachments/assets/12178792-a213-4f21-886c-9c6cc7889072" width="120" />
+<img src="https://github.com/user-attachments/assets/5dcadf79-3be2-4f77-917e-259427080062" width="120" />
+<img src="https://github.com/user-attachments/assets/292736a0-7e95-4c1c-9ebd-74a846e050b6" width="120" />
+<img src="https://github.com/user-attachments/assets/79396ddb-c8e5-452a-8e52-b52919a6c821" width="120" />
+<img src="https://github.com/user-attachments/assets/69d40a50-7258-4730-abb2-9a673ea89f8e" width="120" />
+<img src="https://github.com/user-attachments/assets/ff3aae63-2777-4402-80d7-319cfcd51984" width="120" />
+<img src="https://github.com/user-attachments/assets/59ac3609-103e-4cc2-9929-40d6fdeaa567" width="120" />
 </p>
 
 ### 📈 Open Source Contributions
@@ -57,11 +63,11 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
