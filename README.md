@@ -60,49 +60,38 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 
 ---
 
-# 📊 GitHub Statistics
+📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
 ---
 
-# 📌 Featured Projects
-
-### 🔹 HRMS with Face Recognition
-- FastAPI + PostgreSQL + pgvector
-- Face Authentication Login
-- Admin Dashboard + Employee Mobile System
-
-### 🔹 GitHub Dev Card Generator
-- Generates developer profile cards dynamically
-- Built using React and GitHub APIs
-
-### 🔹 RaiseRoute AI
-- AI-powered route optimization application
-- Intelligent path planning and recommendations
-
-### 🔹 DevTrack Contributions
-- Fixed CI, ESLint, TypeScript and Playwright issues
-- Enhanced responsiveness and user experience
+📌 Featured Projects
+🔹 HRMS with Face Recognition
+FastAPI + PostgreSQL + pgvector
+Face Authentication Login
+Admin Dashboard + Employee Mobile System
+🔹 GitHub Dev Card Generator
+Generates developer profile cards dynamically
+Built using React and GitHub APIs
+🔹 RaiseRoute AI
+AI-powered route optimization application
+Intelligent path planning and recommendations
+🔹 DevTrack Contributions
+Fixed CI, ESLint, TypeScript and Playwright issues
+Enhanced responsiveness and user experience
 
 ---
 
-# 🎯 Currently Working On
-
-- 🤖 HRMS with Face Recognition Authentication
-- 🌟 Open Source Contributions (GSSoC 2026)
-- ⚡ FastAPI Backend Development
-- 📱 Full Stack Web Applications
+🎯 Currently Working On
+🤖 HRMS with Face Recognition Authentication
+🌟 Open Source Contributions (GSSoC 2026)
+⚡ FastAPI Backend Development
+📱 Full Stack Web Applications
 
 ---
 
