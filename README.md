@@ -11,7 +11,7 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - 🎓 CSE Student at St. Joseph's Institute of Technology
 - 🌱 Open Source Contributor | GSSoC 2026
@@ -37,7 +37,7 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 <img src="https://github.com/user-attachments/assets/59ac3609-103e-4cc2-9929-40d6fdeaa567" width="120" />
 </p>
 
-### 📈 Open Source Contributions
+###  Open Source Contributions
 
 - ✅ 5+ Merged Pull Requests
 - 🛠️ Contributor to DevTrack
@@ -62,47 +62,49 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 
 📊 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=S-MOHAMMED-ISMAIL&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-MOHAMMED-ISMAIL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-
 <p align="center"> <img src="https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
 ---
 
-📌 Featured Projects
-🔹 HRMS with Face Recognition
-FastAPI + PostgreSQL + pgvector
-Face Authentication Login
-Admin Dashboard + Employee Mobile System
-🔹 GitHub Dev Card Generator
-Generates developer profile cards dynamically
-Built using React and GitHub APIs
-🔹 RaiseRoute AI
-AI-powered route optimization application
-Intelligent path planning and recommendations
-🔹 DevTrack Contributions
-Fixed CI, ESLint, TypeScript and Playwright issues
-Enhanced responsiveness and user experience
+## 📌 Featured Projects
+
+### 🔹 HRMS with Face Recognition
+- FastAPI + PostgreSQL + pgvector
+- Face Authentication Login
+- Admin Dashboard + Employee Mobile System
+
+### 🔹 GitHub Dev Card Generator
+- Generates developer profile cards dynamically
+- Built using React and GitHub APIs
+
+### 🔹 RaiseRoute AI
+- AI-powered route optimization application
+- Intelligent path planning and recommendations
+
+### 🔹 DevTrack Contributions
+- Fixed CI, ESLint, TypeScript and Playwright issues
+- Enhanced responsiveness and user experience
 
 ---
 
-🎯 Currently Working On
-🤖 HRMS with Face Recognition Authentication
-🌟 Open Source Contributions (GSSoC 2026)
-⚡ FastAPI Backend Development
-📱 Full Stack Web Applications
+## 🎯 Currently Working On
+
+- 🤖 HRMS with Face Recognition Authentication
+- 🌟 Open Source Contributions (GSSoC 2026)
+- ⚡ FastAPI Backend Development
+- 📱 Full Stack Web Applications
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-mohammed-ismail)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/S-MOHAMMED-ISMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-mohammed-ismail)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-MOHAMMED-ISMAIL)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=S-MOHAMMED-ISMAIL&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=S-MOHAMMED-ISMAIL&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
 
-⭐ Thanks for visiting my profile!
+<p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
