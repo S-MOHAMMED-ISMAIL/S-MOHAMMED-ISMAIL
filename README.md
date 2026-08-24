@@ -60,11 +60,6 @@ Passionate Full Stack Developer focused on Open Source, AI-powered applications,
 
 ---
 
-📊 GitHub Statistics
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=S-MOHAMMED-ISMAIL&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
-
----
 
 ## 📌 Featured Projects
 
